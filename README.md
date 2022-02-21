@@ -1,4 +1,1 @@
-# KRR
-# SQA
-# SQA
 # SQA
